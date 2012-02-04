@@ -1,0 +1,3 @@
+In the absence of a simple histogram generator in most spreadsheet programs, this is a quick-and-dirty alternative which uses ROOT.
+
+It was written very quickly: to change the name of the input file, change it in L27. The number of bins and range also have to be manually changed, in L30. A better solution for this might come in the future, if there's a need for it.
